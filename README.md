@@ -77,7 +77,7 @@ Scikit-learn 0.23.2+
 ***********************************
 ->Usage:
 
-Clone the repository: gh repo clone SCMxASI/Image-Classification-using-Convolutional-Neural-Networks-CNNs-on-CIFAR-10-Dataset
+Clone the repository:https://github.com/SCMxASI/Image-Classification-using-Convolutional-Neural-Networks-CNNs-on-CIFAR-10-Dataset.git
 Install the requirements: pip install -r requirements.txt
 Run the code: python main.py
 Commit Message Guidelines
