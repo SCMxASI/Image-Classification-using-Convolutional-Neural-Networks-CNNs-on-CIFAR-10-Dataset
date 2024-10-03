@@ -23,9 +23,9 @@ NOTE: *I don't attach any Libraries which are essential to run this program. Ple
 ->Dataset:
 
 The CIFAR-10 dataset is loaded using the keras.datasets.cifar10.load_data() function. The dataset is split into training and testing sets, with 50,000 images for training and 10,000 images for testing.
-
+*************************************
 ->Data Preprocessing:
-*********************
+
 The images are normalized by dividing the pixel values by 255, which scales the values between 0 and 1. This is done to improve the stability of the neural network.
 **************************************************************************************************************************
 ->Model Architecture:
