@@ -2,7 +2,7 @@
 This project demonstrates the use of Convolutional Neural Networks (CNNs) for image classification on the CIFAR-10 dataset. The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 classes, with 6,000 images per class. The goal of this project is to train a CNN model to classify these images into their respective classes.
 
 
-NOTE: *I don't attach any Libraries which are essential to run this program. Please make sure all the libraries are downloaded before running this code*
+NOTE: *I don't attach any Libraries which are essential to run this program. Please make sure all the libraries are downloaded before running this code.*
 
 ->NEEDED LIBRARIES:
 
